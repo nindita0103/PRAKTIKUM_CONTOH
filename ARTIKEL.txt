@@ -1,0 +1,135 @@
+Kiat Menangkal Serangan Virus "Ransomware" seperti WannaCry
+
+KOMPAS.com - Pekan lalu, Menteri Komunikasi dan Informatika Rudiantara menyebutkan bahwa Indonesia sudah bebas dari wabah virus ransomware WannaCry.
+
+Menurut Indonesia Security Incident Response Team on Internet Infrastructure (Id-SIRTII), dampak serangan WannaCry di Indonesia bisa diminimalisir lantaran semua pihak yang berkepentingan segera melakukan langkah-langkah pencegahan.
+
+"Berkat kesiapsiagaan dan kerja sama tersebut, dampak dan kerugian yang mungkin diakibatkan dapat ditekan pada tingkat yang paling minimal," sebut Id-SIRTII dalam keterangan tertulis yang diterima KompasTekno, Senin (22/5/2017).
+
+Meski demikian, Id-SIRTII mengingatkan bahwa ancaman cyber masih akan terus ada. Setelah WannaCry yang berhasil menyerang 200.000 korban di 150 negara, para kriminal cyber akan berupaya membuat wabah baru yang tak kalah ganas.
+
+Oleh karena itu, Id-SIRTII menganjurkan langkah-langkah pengamanan berikut sebagai upaya menangkal virus ransomware dan program jahat jenis lain.
+
+1. Biasakan "backup" data
+
+Proses backup alias membuat cadangan data bisa menjadi penyelamat apabila ada serangan program jahat yang mengancam keselamatan data, seperti ransomware WannaCry.
+
+Lakukan backup secara periodik
+Simpan backup data di tempat terpisah dari komputer utama
+Manfaatkan fitur automatic backup di komputer dan cloud storage yang tersinkronisasi dengan komputer dan melakukan backup otomatis
+2. Gunakan sistem operasi asli (original, bukan bajakan)
+
+Tak seperti program bajakan, sistem operasi original mendapat dukungan penuh dari pembuat OS, termasuk dalam hal patch sekuriti yang penting dalam menangkal serangan program jahat.
+
+Sistem operasi original selalu memperbarui software secara otomatis saat komputer tersambung ke internet
+Jangan matikan fitur automatic update karena alasan apapun
+Perbarui secara teratur Windows Security Esentials (WSE)
+3. Gunakan antivirus
+
+Antivirus memiiliki teknologi untuk pengecekan rutin atau scanning komputer secara real-time. Program jahat akan langsung dideteksi dan dicegat dalam situasi seperti di bawah ini.
+
+Ketika membuka e-mail yang mengandung lampiran file berbahaya berisi program jahat
+Ketika mengakses situs yang mengandung malware atau virus
+Mendeteksi file berbahaya di media eksternal (misalnya USB flashdisk) atau jaringan perusahaan dan mencegahnya masuk ke komputer.
+Informasi selengkapnya mengenai pencegahan WannaCry dan program jahat lain secara umum dapat dilihat di laman Id-SIRTII di tautan berikut.
+
+
+"Fuchsia" Bakal Menggantikan Android? Ini Jawaban Google
+
+OMPAS.com- Keberadaan Fuchsia pertama kali diketahui pada Agustus tahun lalu. Fuchsia merupakan cikal bakal sistem operasi mobile yang ramai disebut-sebut akan menggantikan Android dan Chrome OS di masa depan.
+
+Bulan ini bocoran antarmuka Fuchsia mengemuka dan beredar di internet sehinga menguatkan dugaan tersebut. Tapi benarkah Fuchsia akan mengambil tongkat estafet dari Android?
+
+VP Engineering Android Google, David Burke, ditanyai soal itu dalam sesi fireside chat di konferensi Google I/O di Amerika Serikat, pekan ini. Namun, dia rupanya masih belum mau banyak bicara soal prospek masa depan Fuchsia.
+
+"Fuchsia adalah proyek eksperimental tahap awal," jawab Burke, sebagaimana dirangkum KompasTekno dari TechRadar, Minggu (21/5/2017).
+
+"Kami punya banyak proyek awal yang menarik di Google. Saya pikir yang menarik (dari Fuchsia) adalah sifatnya yang open source, jadi orang-orang bisa melihatnya dan berkomentar," imbuh Burke.
+
+Dia menjelaskan, proyek Fuchsia dikerjakan secara mandiri dan terpisah dari Android. Ada kemungkinan Fuchsia masih akan terus berubah lantaran masih berada dalam tahap awal pengembangan.
+"Ada banyak orang pintar yang mengerjakannya saat ini. Kami juga bekerjasama dengan orang-orang hebat. Menanti apa yang akan terjadi benar-benar membuat penasaran," kata Burke.
+
+Berbeda dari Android dan Chome OS sebelumnya, Fuchsia diketahui tak menggunakan kernel Linux, melainkan microkernel baru bernama Magenta yang dikembangkan oleh Google.
+
+Tampilannya sendiri, seperti terlihat dalam bocoran yang beredar awal bulan ini, berupa kartu-kartu atau cards yang bisa digulir secara vertikal.
+
+Namun, seperti kata Burke, semua hal tentang Fuchsia -termasuk prospeknya sebagai pengganti Android- masih bisa terus berubah dan belum bisa dipastikan.
+
+
+Google Allo Bisa Sulap Foto "Selfie" Jadi Emoji
+
+KOMPAS.com - Aneka ekspresi wajah dalam emoji biasanya hanya berupa template standar yang tampil sama. Bagaimana jika pengguna bisa mengubah foto wajah sendiri menjadi custom emoji yang berpenampilan unik?
+
+Itulah yang ditawarkan Google lewat tambahan fitur baru di aplikasi chat Allo buatannya. Fitur ini menggunakan kombinasi teknologi "neural networks" dan seniman untuk menyulap selfie pengguna menjadi ilustrasi custom emoji atau stickers.
+
+Cara menggunakannya mudah saja. "Tinggal jepret selfie dan (Allo) akan membuat ilustrasi wajah Anda secara on the fly. Ada juga opsi untuk melakukan modifikasi lebih lanjut sesuai kehendak," tulis Google dalam sebuah posting blog berisi pengumuman.
+
+"Neural network" di belakang teknologi Allo adalah jaringan komputer yang dirancang agar beroperasi mirip dengan cara kerja otak manusia sehingga mampu mengenali wajah manusia dalam berbagai macam kondisi.
+
+Ini diperlukan karena komputer vision tradisional hanya mampu "melihat" dengan menganalisis rangkaian pixel dari tangkapan kamera digital. Sementara, pengguna ponsel biasanya menjepret selfie dalam beraneka kondisi pencahayaan dan pose.
+
+"Manusia bisa dengan mudah mengenali fitur kualitatif seperti warna mata, tapi ini tugas yang sangat kompleks untuk komputer. Saat seseorang melihat warna mata, mereka tak hanya membedakan warna piksel biru atau hijau, tapi juga mempertimbangkan konteks visual di sekitar," imbuh Google.
+
+Google juga bekerja sama dengan tim seniman untuk membuat berbagai macam ilustrasi terkait, misalnya gambar gaya rambut. Komputer neural network lantas akan memasangkan ilustrasi dengan selfie yang cocok.
+
+Sebagaimana dirangkum KompasTekno dari Cnet, Jumat (12/10/2017), fitur custom emoji ini sudah tersedia di Google Allo untuk Android. Versi iOS dijanjikan akan segera menyusul.
+
+Android O Resmi Meluncur, Ini 5 Fitur Unggulannya
+
+MOUNTAIN VIEW, KOMPAS.com - Setelah diperkenalkan pertama kali dalam versi developer pada Februari lalu, Android O resmi lahir di ajang Google I/O 2017.
+
+Jurnalis KompasTekno, Fatimah Kartini turut hadir di acara peluncuran OS Android terbaru itu, yang digelar di Shoreline Amphitheatre, Mountain View, AS.
+
+Berbicara di atas panggung, VP Engineering Android, Dave Burke, mengumbar fitur-fitur baru pada sistem operasi mobile tersebut.
+
+“Pada dasarnya, kami ingin memberikan pengalaman terbaik lewat berbagai fitur baru dan keamanan dalam pemakaian sehari-hari,” kata Burke, Rabu (17/5/2017), di atas panggung Google I/0 2017.
+
+Lantas, apa saja yang baru dari Android O? Setidaknya ada lima fitur yang jadi andalan Google dalam Android O.
+
+Pertama, picture-in-picture. Fitur ini sudah lebih dulu hadir di aplikasi YouTube. Fungsinya untuk meningkatkan produktivitas, di mana pengguna bisa menjajal aplikasi A sembari menonton Netflix atau YouTube pada layar yang lebih kecil.
+
+Kedua, notification dots. Fitur ini merupakan tahap lebih lanjut dari mekanisme swipe down untuk melihat notifikasi pada aplikasi. Pengguna cukup memencet lama ikon aplikasi, notifikasi yang belum terbaca pun akan muncul.
+
+Ketiga, autofill with Google. Fitur ini mempermudah pengguna ketika hendak log-in ke media sosial. Misalnya saja di Twitter. Google akan mengisi username dan password secara otomatis, sehingga proses log-in tak memakan waktu lama.
+
+Keempat, smart text selection. Fitur ini membuat mekanisme copy-paste kata dan kalimat lebih mudah. Ketika hendak mem-blok suatu alamat, nomor telepon, atau restoran, pengguna tak perlu mem-blok kata per kata.
+
+Google akan mengenali frasa dan konteks, sehingga pengguna bisa mem-blok kata per kata (bukan satu kalimat) untuk disalin dan dipindahkan ke ruang layar lain.
+
+Kelima, untuk urusan performa, Google menjamin Android O akan jauh lebih hemat daya baterai. Ini dimungkinkan berkat optimasi sistem operasi yang diracik Google.
+
+Selain itu, dalam hal keamanan, Google juga mengklaim bakal memanfaatkan machine learning untuk memindai 50 miliar aplikasi per hari. Jika ada aplikasi yang terbukti berbahaya, maka aplikasi tersebut akan langsung "ditendang" dari toko aplikasi Play Store.
+
+Peluncuran Android O kali ini belum disertai informasi soal kapan OS mobile terbaru ini bakal mulai digunakan di smartphone-smartphone Android.
+
+Namun jika merujuk pada rekam jejak, biasanya ponsel pertama yang mengusung OS Android O akan hadir di ajang Mobile World Congress (MWC) di Barcelona, Spanyol. Ajang MWC sendiri rutin digelar setiap awal tahun.
+
+Layanan WhatsApp Tumbang 2 Jam di Seluruh Dunia, Indonesia Tidak Panik
+
+KOMPAS.com - Layanan pesan instan populer WhatsApp sempat tumbang selama sekitar dua jam pada Kamis (4/5/2017) dini hari. Menurut situs Down Detector, pengguna WhatsApp mengeluhkan tidak dapat mengirim dan menerima pesan sejak sekitar pukul 03.30 WIB dini hari.
+
+Tak hanya di Indonesia, pengguna di sejumlah negara pun mengalami hal serupa. Menurut pantauan KompasTekno, layanan WhatsApp baru berangsur pulih sejak pukul 05.20 WIB.
+
+Dalam sebuah e-mail kepada media Reuters, WhatsApp memang mengakui adanya masalah dalam layanannya.
+
+"Beberapa jam lalu, pengguna WhatsApp di seluruh dunia tidak bisa mengakses WhatsApp selama beberapa jam," tutur WhatsApp dalam e-mail tersebut.
+
+"Kami saat ini telah memperbaiki masalah dan meminta maaf atas ketidaknyamanannya," lanjut pesan tersebut.
+
+Meski begitu, pihak WhatsApp tidak memberikan informasi secara pasti, mengapa layanan itu tumbang.
+
+Menurut Reuters, masalah ini memengaruhi semua perangkat yang berbasiskan sistem operasi populer, seperti iOS bikinan Apple, Android bikinan Google, dan Windows Mobile bikinan Microsoft.
+
+Tidak terasa dampaknya di Indonesia
+
+Tumbangnya layanan WhatsApp di Indonesia memang tidak terlalu terasa atau bikin panik di Indonesia. Pasalnya, gangguan berlangsung pada dini hari saat sebagian besar pengguna sedang beristirahat.
+
+Beda halnya dengan negara-negara di benua Eropa dan Amerika, di mana pengguna layanan tersebut masih aktif untuk berkomunikasi via aplikasi.
+
+Peta sebaran gangguan layanan WhatsApp bisa dilihat melalui situs Down Detector di tautan berikut ini.
+
+Pengguna di seluruh dunia juga melaporkan kesulitan membuka aplikasi, mengirimkan, dan menerima pesan dengan WhatsApp.
+
+Tidak seperti aplikasi populer lainnya, WhatsApp tidak memiliki laman untuk menginformasikan status layanan. WhatsApp sebenarnya memiliki akun di Twitter yang bisa digunakan untuk menyebarkan informasi, tetapi sudah tidak aktif sejak 2014.
+
+WhatsApp saat ini memiliki 1,2 miliar pengguna di seluruh dunia. Layanan tersebut sudah diakuisisi oleh Facebook dengan mahar sebesar 19 miliar dollar AS oleh Facebook.
